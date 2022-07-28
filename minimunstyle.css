@@ -3,12 +3,23 @@
     color: #1D1D1D;
 }
 
+.container
+
 footer li {
   margin: 0 20px;
 }
 
 .card:hover {
-    background-color: aliceblue;
+    background-color: rgb(204, 228, 249);
     cursor: pointer;
     transition: linear 2s;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    transition: 1s;
 }

@@ -8,6 +8,8 @@
 08. 90 percent must be framework.
 09. hosting maybe github page or netlify.
 
+
+<!-- For Bonous mark  -->
 10. Nav bar must be collasped in mobile view.
 11.  Register now will show a modal. Ready to join is must for bonous.
 12. Frequently ask question must be realistic. This part is must is for bonous.
